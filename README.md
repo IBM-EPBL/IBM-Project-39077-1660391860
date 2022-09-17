@@ -1,3 +1,5 @@
-## Industry-specific intelligent fire management system
+# Industry-Specific Intelligent Fire Management System
+## Project category : Intenet of things
+###BATCH NO : B7-1A3E
 
-In this page the project sources , assignments will be submitted
+IN THIS PAGE PROJECT SOUCRE CODE,ASSIGNMENTS WILL BE SUBMITTED.
