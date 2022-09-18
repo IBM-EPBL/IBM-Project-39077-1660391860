@@ -15,6 +15,9 @@ _To view it in tinkercad [__click here__](https://www.tinkercad.com/things/fwTQC
 - Piezo buzzer
 - Resistor
 
+###### Image
+[![circuit](./Assignment%201.png)](https://github.com/IBM-EPBL/IBM-Project-39077-1660391860/blob/main/Assignments/AjinR/Assignment%201/Assignment%201.png)
+
 ###### Working
 > __Motion detection at door__
 > 
