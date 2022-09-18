@@ -1,7 +1,7 @@
 ## Assignment 1
-#### Simulation of smart home
+### Simulation of smart home
 
-_To view it in tinkercad [click here](https://www.tinkercad.com/things/fwTQCRKir1J?sharecode=74-3df2njlWZTiLenUSYv-SBg5MW1c5h-e9uBf4vNNA)_
+_To view it in tinkercad [__click here__](https://www.tinkercad.com/things/fwTQCRKir1J?sharecode=74-3df2njlWZTiLenUSYv-SBg5MW1c5h-e9uBf4vNNA)_
 
 ###### Sensors used
 - PIR (Passive Infrared Sensor)
