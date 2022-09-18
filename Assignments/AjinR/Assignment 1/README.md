@@ -27,3 +27,10 @@ _To view it in tinkercad [click here](https://www.tinkercad.com/things/fwTQCRKir
 > __Automatic Window opening or closing__
 >
 > If the sunlicht is high enough (at moring) it opens ,then if it is too low it closes automatically.
+
+
+
+---
+
+
+_Submitted by  __Ajin R__ from batch __B7-1A3E___
