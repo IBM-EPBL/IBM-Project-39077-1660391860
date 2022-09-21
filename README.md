@@ -1,5 +1,6 @@
 ## INDUSTRY-SPECIFIC INTELLIGENT FIRE MANAGMENT SYSTEM
-### PROJECT CATEGORY : INTENET OF THINGS 
 ### BATCH NO : B7-1A3E
+### Project Category : Internet Of Things
 
-IN THIS PAGE PROJECT SOUCRE CODE,ASSIGNMENTS FOR NALAIYA THIRAN IBM PROJECT WILL BE SUBMITTED.
+
+In this page we will be submitting the source code  assignments for the ibm project.
