@@ -8,7 +8,7 @@
 
 ## <img src="https://user-images.githubusercontent.com/99788851/194714826-a05deae0-6d33-449d-a1e8-a126f30e1b4f.png" alt="drawing" width="25"/> Our info
 
-| Query | Reply |
+| About | To know |
 | --- | --- |
 | Project Title | INDUSTRY-SPECIFIC INTELLIGENT FIRE MANAGMENT SYSTEM |
 | Project Category |Internet Of Things &emsp; |
