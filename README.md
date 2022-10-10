@@ -15,6 +15,7 @@
 | Team ID |PNT2022TMID51903 &emsp; |
 | Team Size |4 &emsp; |
 | College Name |Amrita College of Engineering and Technology, Nagercoil &emsp; |
+| Team Mentor |Sasikala T S|
 | College SPOC |Mrs. Jothilakshmi S L |
 
 &emsp;
