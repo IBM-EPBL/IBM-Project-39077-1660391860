@@ -28,6 +28,6 @@ while True:
     else:
         print("reading....")
     sleep(1)
-    #sleep function delay the execution of the next instruction the delay time can be set by the users
+#sleep function delay the execution of the next instruction the delay time can be set by the users`
 
 
