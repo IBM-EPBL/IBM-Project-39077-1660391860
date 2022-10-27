@@ -41,9 +41,7 @@
 
 <img src="https://user-images.githubusercontent.com/99788851/198326369-2e25a732-6112-43d9-aa45-af9953740d98.png" alt="drawing" width="510"/>
 
-&emsp;
-## <img src="https://user-images.githubusercontent.com/99788851/198332846-92ee5f2c-197e-4aa4-a50f-cb125f9f44c4.png" alt="drawing" width="25"/>  Proposed solution data flow
-<img src="https://user-images.githubusercontent.com/99788851/198326973-afffde46-53c2-4e0c-9390-b8a3bd49b539.jpeg" alt="drawing" width="510"/>
+
 
 
 
