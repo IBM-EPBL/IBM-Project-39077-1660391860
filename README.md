@@ -34,7 +34,7 @@ Fire safety in any place should be very important especially in homes ,large bui
 &emsp;
 
 ## <img src="https://user-images.githubusercontent.com/99788851/198331452-74f17ef7-026d-4a14-9d6f-ba63df97c39b.png" alt="drawing" width="25"/> Proposed solution
-We are trying to resolve this problem by building and intelligent fire management system using an iot device that can accurately ,effectively monitor and detect fire and automatically alert the people as well as the appropriate authority and activating the fire defense mechanism like sprinklers and be able to have fail safe like preventing from false alarm and know if the sprinklers are working properly from an application.
+              We are trying to resolve this problem by building and intelligent fire management system using an iot device that can accurately ,effectively monitor and detect fire and automatically alert the people as well as the appropriate authority and activating the fire defense mechanism like sprinklers and be able to have fail safe like preventing from false alarm and know if the sprinklers are working properly from an application.
 
 &emsp;
 ## <img src="https://user-images.githubusercontent.com/99788851/198332480-ae7efd7c-3e5a-4dc7-bbfc-23ca283aee8d.png" alt="drawing" width="25"/>  Solution Architecture
