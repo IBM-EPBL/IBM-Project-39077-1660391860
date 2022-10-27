@@ -29,21 +29,21 @@
 
 &emsp;
 ## <img src="https://user-images.githubusercontent.com/99788851/198329274-5cb64881-b5e6-4b0c-ad4a-e901683ff6d6.png" alt="drawing" width="25"/> Problem Statement
-Fire safety in any place should be very important especially in homes ,large buildings and industries .It can cause damage to resources and may cause death . So preventing and controlling the fire in case of a fire combustion is very important.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fire safety in any place should be very important especially in homes ,large buildings and industries .It can cause damage to resources and may cause death . So preventing and controlling the fire in case of a fire combustion is very important.
 
 &emsp;
 
 ## <img src="https://user-images.githubusercontent.com/99788851/198331452-74f17ef7-026d-4a14-9d6f-ba63df97c39b.png" alt="drawing" width="25"/> Proposed solution
-&nbsp; We are trying to resolve this problem by building and intelligent fire management system using an iot device that can accurately ,effectively monitor and detect fire and automatically alert the people as well as the appropriate authority and activating the fire defense mechanism like sprinklers and be able to have fail safe like preventing from false alarm and know if the sprinklers are working properly from an application.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We are trying to resolve this problem by building and intelligent fire management system using an iot device that can accurately ,effectively monitor and detect fire and automatically alert the people as well as the appropriate authority and activating the fire defense mechanism like sprinklers and be able to have fail safe like preventing from false alarm and know if the sprinklers are working properly from an application.
 
 &emsp;
 ## <img src="https://user-images.githubusercontent.com/99788851/198332480-ae7efd7c-3e5a-4dc7-bbfc-23ca283aee8d.png" alt="drawing" width="25"/>  Solution Architecture
 
-<img src="https://user-images.githubusercontent.com/99788851/198326369-2e25a732-6112-43d9-aa45-af9953740d98.png" alt="drawing" width="450"/>
+<img src="https://user-images.githubusercontent.com/99788851/198326369-2e25a732-6112-43d9-aa45-af9953740d98.png" alt="drawing" width="510"/>
 
 &emsp;
 ## <img src="https://user-images.githubusercontent.com/99788851/198332846-92ee5f2c-197e-4aa4-a50f-cb125f9f44c4.png" alt="drawing" width="25"/>  Proposed solution data flow
-<img src="https://user-images.githubusercontent.com/99788851/198326973-afffde46-53c2-4e0c-9390-b8a3bd49b539.jpeg" alt="drawing" width="553"/>
+<img src="https://user-images.githubusercontent.com/99788851/198326973-afffde46-53c2-4e0c-9390-b8a3bd49b539.jpeg" alt="drawing" width="510"/>
 
 
 
