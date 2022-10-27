@@ -39,7 +39,7 @@ We are trying to resolve this problem by building and intelligent fire managemen
 &emsp;
 ## <img src="https://user-images.githubusercontent.com/99788851/198332480-ae7efd7c-3e5a-4dc7-bbfc-23ca283aee8d.png" alt="drawing" width="25"/>  Solution Architecture
 
-<img src="https://user-images.githubusercontent.com/99788851/198326369-2e25a732-6112-43d9-aa45-af9953740d98.png" alt="drawing" width="430"/>
+<img src="https://user-images.githubusercontent.com/99788851/198326369-2e25a732-6112-43d9-aa45-af9953740d98.png" alt="drawing" width="450"/>
 
 &emsp;
 ## <img src="https://user-images.githubusercontent.com/99788851/198332846-92ee5f2c-197e-4aa4-a50f-cb125f9f44c4.png" alt="drawing" width="25"/>  Proposed solution data flow
