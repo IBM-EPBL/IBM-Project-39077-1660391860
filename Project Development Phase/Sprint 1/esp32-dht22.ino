@@ -50,13 +50,13 @@ void loop() {
 
   //set a flame status based on how close it is.....
   switch (flamerange) {
-  case 0:    // A fire closer than 1.5 feet away.
+  case 2:    // A fire closer than 1.5 feet away.
     flame_status = "Close Fire";
     break;
   case 1:    // A fire between 1-3 feet away.
     flame_status = "Distant Fire";
     break;
-  case 2:    // No fire detected.
+  case 0:    // No fire detected.
     flame_status = "No Fire";
     break;
   }
@@ -70,21 +70,24 @@ void loop() {
   }
 
   //find the accident status 'cause fake alert may be caused by some mischief activities
-  if(temperature < 40 && flamerange ==0){
+  if(temperature < 40 && flamerange ==2){
     accident_status = "need auditing";
+    is_sprinkler_on = false;
   }
-  else if(temperature < 40 && flamerange ==2){
+  else if(temperature < 40 && flamerange ==0){
     accident_status = "nothing found";
+    is_sprinkler_on = false;
   }
   else if(temperature > 50 && flamerange == 1){
     is_sprinkler_on = true;
     accident_status = "moderate";
   }
-  else if(temperature > 55 && flamerange == 0){
+  else if(temperature > 55 && flamerange == 2){
     is_sprinkler_on = true;
     accident_status = "severe";
   }else{
     is_sprinkler_on = false;
+    accident_status = "nil";
   }
 
 
