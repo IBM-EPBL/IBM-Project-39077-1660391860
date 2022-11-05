@@ -11,7 +11,7 @@ Link: https://wokwi.com/projects/346864980928234066
 #### Physical Components Used :
 - Esp32 Microcontroller
 - Dht22 Temperatue and Gas Sensor 
-#### Digital Data :
+#### Digital Data (Random Data) :
 - Flame Sensor
 - Flow Sensor 
 
