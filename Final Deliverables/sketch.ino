@@ -296,7 +296,7 @@ void callback(char* subscribetopic, byte* payload, unsigned int payloadLength)
   double pincode = 0;
   
   if(mjson_get_number(s, strlen(s), "$.pin", &pincode)){
-    if(((int)pincode)==67993){
+    if(((int)pincode)==137153){
         const char *buf;  
         int len;          
         
