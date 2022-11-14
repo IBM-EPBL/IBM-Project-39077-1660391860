@@ -6,6 +6,7 @@ Link: https://wokwi.com/projects/347658579162956371
 
 Demo Video : https://www.youtube.com/watch?v=-atsFxkFh70
 &emsp;
+Web UI : https://node-red-nxzwb-2022-10-10.eu-gb.mybluemix.net/ui/#!/0?socketid=PbZzAeO8zukT3f30AAB7
 ### Preview
 
 ####  Wokwi:
