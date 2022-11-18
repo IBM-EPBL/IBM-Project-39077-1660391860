@@ -6,7 +6,7 @@
 
 &emsp;
 ## <img src="https://user-images.githubusercontent.com/99788851/202735504-cde8c747-8671-4c60-8400-2e0e9d64b054.png" alt="drawing" width="25"/> Important Links
-[![demovideo](https://img.shields.io/badge/Project%20demo-video-yellowgreen?style=flat)](https://www.youtube.com/watch?v=-atsFxkFh70)
+[![demovideo](https://img.shields.io/badge/Project%20demo-video-orange?style=flat)](https://www.youtube.com/watch?v=-atsFxkFh70)
 [![reports](https://img.shields.io/badge/Reports-Docs-green?style=flat)](https://github.com/IBM-EPBL/IBM-Project-39077-1660391860/tree/main/Final%20Deliverables/Tests%20and%20Reports)
 [![predevlopment](https://img.shields.io/badge/Pre%20development-Docs-blue?style=flat)]([https://www.youtube.com/watch?v=-atsFxkFh70](https://github.com/IBM-EPBL/IBM-Project-39077-1660391860/tree/main/Project%20Design%20And%20Planning/ideation%20phase))
 [![dashboard](https://img.shields.io/badge/Dashboard-web%20UI-ff69b4?style=flat)]([https://www.youtube.com/watch?v=-atsFxkFh70](https://node-red-nxzwb-2022-10-10.eu-gb.mybluemix.net/ui/#!/0?socketid=PbZzAeO8zukT3f30AAB7))
